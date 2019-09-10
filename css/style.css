@@ -21,7 +21,7 @@ body:before {
 }
 
 .container {
-  background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+  background: rgba(10, 20, 24, 13);
   min-height: 100%;
   padding: 0;
 }
