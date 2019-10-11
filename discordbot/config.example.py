@@ -1,5 +1,5 @@
 config = {
-    'bot-token': "Discord bot token",
+    'bot-token': "NDY5MTc2NDgwMDQ4MzQ5MjA2.XYtPdQ.2wsOgInBSjJ1uZpIF0lSd48ynBE",
     
     'database-uri': "driver://username:password@host:port/database",
     
